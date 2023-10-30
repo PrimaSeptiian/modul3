@@ -13,5 +13,6 @@ This is a simple project to practice creating documentation in a README file.
 
 # License 
 This project is licensed under the MIT license - see the [licence](LICENSE) file for details.
-#contributor
+
+# contributor
 https://github.com/PrimaSeptiian
