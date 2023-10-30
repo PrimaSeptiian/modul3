@@ -1,4 +1,4 @@
-# Hitung VOlume BOla
+# Hitung VOlume Bola
 Tugas modul 3 praktikum
 # Documentation practice
 This is a simple project to practice creating documentation in a README file.
@@ -13,3 +13,5 @@ This is a simple project to practice creating documentation in a README file.
 
 # License 
 This project is licensed under the MIT license - see the [licence](LICENSE) file for details.
+#contributor
+https://github.com/PrimaSeptiian
